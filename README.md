@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of dexif/telegram.** Not for installation: use [Packagist](https://packagist.org/packages/dexif/telegram) or the [upstream repository](https://github.com/dexif/telegram).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/dexif-telegram/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+**3** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/dexif-telegram/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-02-09 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/dexif-telegram/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-02-09 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/dexif-telegram/tree/archive/v0.1.1) |
+| `0.2.0` | 2019-10-18 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/dexif-telegram/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/dexif-telegram.json](https://github.com/flarchive/archive-index/blob/main/packages/dexif-telegram.json)
 

@@ -1,0 +1,54 @@
+{
+    "name": "dexif/telegram",
+    "description": "Telegram login and notifications for Flarum",
+    "keywords": [
+        "extension",
+        "flarum",
+        "telegram",
+        "auth",
+        "notifications"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgenij Spitsyn",
+            "email": "evgeniy@spitsyn.net",
+            "homepage": "https://spitsyn.net/"
+        },
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/"
+        },
+        {
+            "name": "JameSupeReal",
+            "email": "james@nodeloc.com",
+            "homepage": "https://www.nodeloc.com/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/dexif/telegram/issues",
+        "source": "https://github.com/dexif/telegram"
+    },
+    "require": {
+        "php": "^8.3",
+        "flarum/core": "^2.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Telegram",
+            "icon": {
+                "name": "fab fa-telegram-plane",
+                "backgroundColor": "#f4f4f4",
+                "color": "#5f4bb6"
+            },
+            "category": "feature"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "FlarumTelegram\\": "src/"
+        }
+    }
+}
